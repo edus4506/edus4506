@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eduardo</h1>
-<h3 align="center">Second-year BSc student in Informatics and Computing Engineering at FEUP</h3>
+<h3 align="center">Third year BSc student in Informatics and Computing Engineering at FEUP</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edus4506&label=Profile%20views&color=0e75b6&style=flat" alt="edus4506" /> </p>
 
 <h3 align="left">Connect with me:</h3>
