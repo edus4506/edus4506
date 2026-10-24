@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edus4506&label=Profile%20views&color=0e75b6&style=flat" alt="edus4506" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardosantos450)
 
 <h3 align="left">🛠 My Stack</h3>
